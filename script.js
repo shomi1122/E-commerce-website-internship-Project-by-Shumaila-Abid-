@@ -5,7 +5,7 @@ const allProducts = [
     { id:4, name:"Stainless Mug", price:"$2.50", moq:"200 pcs", supplier:"Yiwu Home", img:"https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=300&h=300&fit=crop" },
     { id:5, name:"LED Desk Lamp", price:"$6.80", moq:"100 pcs", supplier:"Zhongshan Lighting", img:"https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=300&h=300&fit=crop" },
     { id:6, name:"Backpack", price:"$8.90", moq:"80 pcs", supplier:"Guangzhou Bags", img:"https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=300&h=300&fit=crop" },
-    { id:7, name:"Smart Speaker", price:"$22.50", moq:"60 pcs", supplier:"Fujian Audio", img:"https://images.unsplash.com/photo-1589003077984-894e133ddfab?w=300&h=300&fit=crop" },
+    { id:7, name:"Smart Speaker", price:"$22.50", moq:"60 pcs", supplier:"Fujian Audio", img:"https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=300&h=300&fit=crop" },
     { id:8, name:"Yoga Mat", price:"$4.50", moq:"300 pcs", supplier:"Zhejiang Sports", img:"https://images.unsplash.com/photo-1592432678016-e910b452f9a2?w=300&h=300&fit=crop" }
 ];
 
